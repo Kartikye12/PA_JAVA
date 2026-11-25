@@ -64,9 +64,19 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kartikye12/PA_JAVA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Kartikye12/PA_JAVA/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kartikye12/PA_JAVA/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Kartikye12/PA_JAVA/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Kartikye12/PA_JAVA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Kartikye12/PA_JAVA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
