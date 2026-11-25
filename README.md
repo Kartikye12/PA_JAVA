@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Kartikye12/PA_JAVA/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
