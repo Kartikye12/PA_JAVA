@@ -63,5 +63,10 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kartikye12/PA_JAVA/tree/master/0155-min-stack) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kartikye12/PA_JAVA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
