@@ -59,10 +59,12 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Kartikye12/PA_JAVA/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Kartikye12/PA_JAVA/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Kartikye12/PA_JAVA/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Kartikye12/PA_JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
